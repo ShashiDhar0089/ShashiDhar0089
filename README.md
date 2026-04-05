@@ -9,7 +9,7 @@
 
 Hi there 👋
 
-Nice meeting you, I'm **ShashiDhar Reddy**!
+Nice meeting you, I'm **ShashiDhar**!
 
 - 💼 I'm currently working on **Full Stack & AI-powered projects**
 - 🌐 Ask me about **Web Development, APIs, Machine Learning** related stuff
@@ -22,7 +22,6 @@ Nice meeting you, I'm **ShashiDhar Reddy**!
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
@@ -60,12 +59,29 @@ Nice meeting you, I'm **ShashiDhar Reddy**!
 
 ---
 
-## 🏆 Trophies:
+## 📈 Contribution Graph:
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShashiDhar0089&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashiDhar0089&bg_color=0D1117&color=FF6B6B&line=FFC107&point=4ECDC4&area=true&hide_border=true" width="100%"/>
 
 ---
 
+## 💬 Dev Quote of the Day:
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
+
+---
+
+## 📌 Featured Projects:
+
+<a href="https://github.com/ShashiDhar0089">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShashiDhar0089&repo=YOUR-REPO-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" width="48%"/>
+</a>
+&nbsp;
+<a href="https://github.com/ShashiDhar0089">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShashiDhar0089&repo=YOUR-REPO-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" width="48%"/>
+</a>
+
+---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:FFC107,100:FF6B6B&height=120&section=footer" width="100%"/>
 
