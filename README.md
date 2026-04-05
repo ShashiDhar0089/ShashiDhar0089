@@ -1,7 +1,7 @@
 <!-- Animated Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:FFC107,100:4ECDC4&height=160&section=header&text=Hey%20there!%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&width=600&lines=Nice+meeting+you%2C+I'm+Shashi+Dhar!+%F0%9F%91%8B;Full+Stack+Developer+%7C+ML+Explorer+%F0%9F%A4%96;Building+cool+things+one+line+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF6B6B&width=600&lines=Nice+meeting+you%2C+I'm+ShashiDhar!+%F0%9F%91%8B;Full+Stack+Developer+%7C+ML+Explorer+%F0%9F%A4%96;Building+cool+things+one+line+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
 
@@ -22,6 +22,7 @@ Nice meeting you, I'm **ShashiDhar**!
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-instagram)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
 
