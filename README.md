@@ -66,11 +66,6 @@ Nice meeting you, I'm **ShashiDhar Reddy**!
 
 ---
 
-## 🐍 Contribution Snake:
-
-<img src="https://raw.githubusercontent.com/ShashiDhar0089/ShashiDhar0089/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
----
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ECDC4,50:FFC107,100:FF6B6B&height=120&section=footer" width="100%"/>
 
