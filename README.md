@@ -13,7 +13,7 @@ Nice meeting you, I'm **ShashiDhar**!
 
 - 💼 I'm currently working on **Full Stack & AI-powered projects**
 - 🌐 Ask me about **Web Development, APIs, Machine Learning** related stuff
-- 📬 How to reach me: [LinkedIn](https://linkedin.com/in/your-linkedin) · [Twitter/X](https://twitter.com/your-twitter)
+- 📬 How to reach me: [LinkedIn](https://linkedin.com/in/your-linkedin)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I'm not coding, I'm probably exploring new tech or binge-watching sci-fi!
 
