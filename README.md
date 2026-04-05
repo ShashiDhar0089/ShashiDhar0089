@@ -9,7 +9,7 @@
 
 Hi there 👋
 
-Nice meeting you, I'm **Shashi Dhar**!
+Nice meeting you, I'm **ShashiDhar Reddy**!
 
 - 💼 I'm currently working on **Full Stack & AI-powered projects**
 - 🌐 Ask me about **Web Development, APIs, Machine Learning** related stuff
