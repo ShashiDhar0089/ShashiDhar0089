@@ -13,7 +13,7 @@ Nice meeting you, I'm **ShashiDhar**!
 
 - 💼 I'm currently working on **Full Stack & AI-powered projects**
 - 🌐 Ask me about **Web Development, APIs, Machine Learning** related stuff
-- 📬 How to reach me: [LinkedIn](https://linkedin.com/in/your-linkedin)
+- 📬 How to reach me: [LinkedIn](https://linkedin.com/in/your-linkedin) · [Twitter/X](https://twitter.com/your-twitter)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: If I'm not coding, I'm probably exploring new tech or binge-watching sci-fi!
 
@@ -66,9 +66,9 @@ Nice meeting you, I'm **ShashiDhar**!
 
 ---
 
-## 💬 Dev Quote of the Day:
+## 😄 Dev Joke of the Day:
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="100%"/>
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" width="100%" alt="Dev Joke"/>
 
 ---
 
