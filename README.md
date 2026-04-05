@@ -66,21 +66,9 @@ Nice meeting you, I'm **ShashiDhar**!
 
 ---
 
-## 😄 Dev Joke of the Day:
+## 💬 Quote of the Day:
 
-<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" width="100%" alt="Dev Joke"/>
-
----
-
-## 📌 Featured Projects:
-
-<a href="https://github.com/ShashiDhar0089">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShashiDhar0089&repo=YOUR-REPO-1&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" width="48%"/>
-</a>
-&nbsp;
-<a href="https://github.com/ShashiDhar0089">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ShashiDhar0089&repo=YOUR-REPO-2&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=ffffff" width="48%"/>
-</a>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" width="100%" alt="Quote"/>
 
 ---
 
